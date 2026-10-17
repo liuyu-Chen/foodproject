@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  color: #303133;
+  background-color: #f5f7fa;
+  font-family: Arial, "Microsoft YaHei", sans-serif;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.page-card {
+  margin-top: 20px;
+}
+
+.full-width {
+  width: 100%;
+}

@@ -1,0 +1,25 @@
+# 前端依赖和打包文件
+food-frontend/node_modules/
+food-frontend/dist/
+
+# 后端构建文件
+food-backend/target/
+
+# IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# 本地环境变量和密钥
+.env
+.env.local
+.env.*.local
+
+# 日志
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db

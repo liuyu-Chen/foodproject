@@ -1,0 +1,9 @@
+<template>
+  <div>
+    <h2>用户管理</h2>
+
+    <el-card>
+      <el-empty description="用户管理功能正在开发" />
+    </el-card>
+  </div>
+</template>
